@@ -42,7 +42,7 @@ I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) stu
 
 ---
 
-![Abdullah's Github stats](https://github-readme-stats.vercel.app/api?username=abdzees&show_icons=true&theme=holi)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdzees&show_icons=true&theme=holi&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdzees&layout=compact&theme=holi)
 
 ---
