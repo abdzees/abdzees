@@ -4,7 +4,7 @@
 
 I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) studying Computer Science and Artificial Intelligence. I'm always open to new opportunities to collaborate and work on meaningful projects.
 > [!IMPORTANT]
-> Seeking ***Working Student (Werkstudent) software/web developer*** role
+> Seeking ***AI Internship*** role
 
 ---
 
