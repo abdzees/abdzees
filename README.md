@@ -1,10 +1,8 @@
-### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px >, I'm Abdullah.
+### Hellolololololololololol I'm Abdullah.
 
 ---
 
 I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) studying Computer Science and Artificial Intelligence. I'm always open to new opportunities to collaborate and work on meaningful projects.
-> [!IMPORTANT]
-> Seeking ***AI Internship*** role
 
 ---
 
