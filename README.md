@@ -1,4 +1,4 @@
-### Hellolololololololololol I'm Abdullah.
+### Hellooo, I'm Abdullah.
 
 ---
 
