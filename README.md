@@ -2,7 +2,7 @@
 
 ---
 
-I am currently a bachelor's student at Technische Hochschule Ingolstadt(THI) studying Computer Science and Artificial Intelligence. I'm always open to new opportunities to collaborate and work on meaningful projects.
+BSc. Computer Science and Artificial Intelligence student at Technische Hochshule Ingolstadt. Open to new opportunities to collaborate and work on meaningful projects.
 
 ---
 
