@@ -41,7 +41,7 @@ BSc. Computer Science and Artificial Intelligence student at Technische Hochshul
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdzees&show_icons=true&theme=holi&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdzees&layout=compact&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdzees&layout=compact&theme=holi&cache_seconds=1800)
 
 ---
 
