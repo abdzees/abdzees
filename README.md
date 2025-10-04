@@ -1,4 +1,4 @@
-### Hellooo, I'm Abdullah.
+### Hellooo, I'm Abdullah, an AI/ML geek.
 
 ---
 
@@ -9,8 +9,8 @@ BSc. Computer Science and Artificial Intelligence student at Technische Hochshul
 #### :books: I'm Currently Learning:
 - Computer Vision
 - Natural Language Processing
-- Algorithms for AI 
-- Database Systems and Big Data Technologies
+- AI Algorithms
+- Databases and DevOps
 
 ---
 
