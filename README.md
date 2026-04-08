@@ -3,6 +3,7 @@
 ---
 
 BSc. Computer Science and Artificial Intelligence student at Technische Hochshule Ingolstadt.
+Ai/ML Engineer at Siemens AG.
 
 ---
 
