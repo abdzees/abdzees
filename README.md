@@ -1,16 +1,12 @@
-### Hellooo, I'm Abdullah, an AI/ML geek.
+### Heyy, I'm Abdullah.
 
 ---
 
-BSc. Computer Science and Artificial Intelligence student at Technische Hochshule Ingolstadt. Open to new opportunities to collaborate and work on meaningful projects.
+BSc. Computer Science and Artificial Intelligence student at Technische Hochshule Ingolstadt.
 
 ---
 
-#### :books: I'm Currently Learning:
-- Computer Vision
-- Natural Language Processing
-- AI Algorithms
-- Databases and DevOps
+#### really into software and AI :)
 
 ---
 
