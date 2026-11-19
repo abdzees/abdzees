@@ -3,8 +3,9 @@
 ---
 
 BSc. Computer Science and Artificial Intelligence student at Technische Hochshule Ingolstadt.     
-Ex AI/ML Engineer at Siemens AG.
+Ex AI/ML Engineer at Siemens AG.       
 Data Analyst at Deumobil.GmbH
+
 ---
 
 #### really into software and AI :)
